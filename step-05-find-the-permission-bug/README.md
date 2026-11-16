@@ -84,3 +84,9 @@ git commit -m "Fix permissions on the backup script"
 `Fix permissions on the backup script`
 
 Next: [step 06, SQL: SELECT and WHERE](../step-06-sql-select-and-where/)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-06-sql-select-and-where](../step-06-sql-select-and-where/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

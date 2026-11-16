@@ -126,3 +126,9 @@ If you get lost in the middle of a merge, `git merge --abort` puts everything ba
 8. `Merge better-notes and combine both notes`
 
 Next: [step 04, Linux files and permissions](../step-04-linux-files-and-permissions/)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-04-linux-files-and-permissions](../step-04-linux-files-and-permissions/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

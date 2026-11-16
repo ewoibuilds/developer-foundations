@@ -69,3 +69,9 @@ git commit -m "Answer the shop database questions"
 `Answer the shop database questions`
 
 Next: the final project, **Your portfolio website, live** (on ewoibuilds.com: `/projects/portfolio-website`), with its own template repository, [portfolio-website](https://github.com/ewoibuilds/portfolio-website).
+
+<!-- ewoi:step -->
+---
+
+**Next:** you finished the path: pick a project from [all free repos](https://github.com/ewoibuilds) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

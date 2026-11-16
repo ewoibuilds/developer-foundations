@@ -53,3 +53,9 @@ ewoi-learning/
 None yet. From step 02 on, every step ends with a commit.
 
 Next: [step 02, your first commit](../step-02-your-first-commit/)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-02-your-first-commit](../step-02-your-first-commit/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

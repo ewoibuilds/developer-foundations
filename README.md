@@ -1,3 +1,19 @@
+<!-- ewoi:top -->
+<p align="center"><img src="docs/banner.webp" alt="Developer foundations: 7 steps: the web, Git, the terminal and SQL" width="100%"></p>
+
+<p align="center">
+  <a href="step-01-how-the-web-works/"><b>Start at step 01 &rarr;</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/ewoibuilds"><b>All free repos</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://www.youtube.com/@ewoibuilds"><b>Watch the lessons</b></a>
+</p>
+
+<p align="center">
+  <img alt="Free" src="https://img.shields.io/badge/price-free-C6FF00?style=flat-square&labelColor=0B0F19">
+  <img alt="Beginner friendly" src="https://img.shields.io/badge/beginner-friendly-C6FF00?style=flat-square&labelColor=0B0F19">
+  <img alt="MIT licence" src="https://img.shields.io/badge/licence-MIT-C6FF00?style=flat-square&labelColor=0B0F19">
+</p>
+<!-- /ewoi:top -->
+
 # Developer foundations
 
 **Learn. Build. Ship.** From zero to your first project on the internet: how the web works, Git, the terminal and databases, one small step at a time.
@@ -104,12 +120,21 @@ Learn the step first, then ask for help with something you can check. A good pro
 
 Check every answer against the lesson and the official docs (git-scm.com, sqlite.org, developer.mozilla.org), and never paste passwords, keys or tokens into a chat.
 
-## Support Ewoi Builds
-
-Lessons stay free. If this helped, star the repository, follow the organisation and share it with someone who is starting out.
-
-Follow along: GitHub (github.com/ewoibuilds), TikTok (@ewoibuilds), Instagram (@ewoibuilds).
 
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
+
+<!-- ewoi:end -->
+## Keep going
+
+- **Star this repo** so you can find it again, and so more learners discover it.
+- **Follow [Ewoi Builds on GitHub](https://github.com/ewoibuilds)** to get the next steps and projects as they land.
+- **Build it, then show it:** push your version to your own GitHub and share the link with us.
+- **Stuck?** Open an issue with the "I am stuck" form. Say which step, what you ran and what you saw.
+- **Lessons stay free.** If this helped, you can say thanks with [Buy me a soda](https://buymesoda.com/Rd3JwfQpNGaUXdyc4ImyIrXrENu2) or [Buy me a coffee](https://buymeacoffee.com/ewoibuilds).
+
+Follow along: [GitHub](https://github.com/ewoibuilds), [TikTok](https://www.tiktok.com/@ewoibuilds), [Instagram](https://www.instagram.com/ewoibuilds/), [Facebook](https://www.facebook.com/profile.php?id=61596671420317), [YouTube](https://www.youtube.com/@ewoibuilds).
+
+**Learn. Build. Ship.**
+<!-- /ewoi:end -->

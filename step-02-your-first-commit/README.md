@@ -78,3 +78,9 @@ ce1ec56 Add a note about git status
 5. `Add a note about git status`
 
 Next: [step 03, branches without fear](../step-03-branches-without-fear/)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-03-branches-without-fear](../step-03-branches-without-fear/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

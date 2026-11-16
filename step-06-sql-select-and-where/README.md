@@ -88,3 +88,9 @@ git commit -m "Add lessons database and practice queries"
 `Add lessons database and practice queries`
 
 Next: [step 07, write the query](../step-07-write-the-query/)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-07-write-the-query](../step-07-write-the-query/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

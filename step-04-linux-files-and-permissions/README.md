@@ -84,3 +84,9 @@ The commit prints `create mode 100755 hello.sh` and `create mode 100755 today.sh
 `Add Linux practice files`
 
 Next: [step 05, find the permission bug](../step-05-find-the-permission-bug/)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-05-find-the-permission-bug](../step-05-find-the-permission-bug/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/developer-foundations/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/developer-foundations) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->
