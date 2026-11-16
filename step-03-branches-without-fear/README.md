@@ -89,21 +89,26 @@ CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
-At the end, `git log --oneline --graph` starts like this (your IDs will differ):
+At the end, `git log --oneline --graph` shows the whole history, with step 02's five commits at the bottom (your IDs will differ):
 
 ```
-*   11cc722 Merge better-notes and combine both notes
+*   3d09d4c Merge better-notes and combine both notes
 |\
-| * bbc646c Reword the notes
-* | 8ab27db Rewrite the notes
+| * a3c018d Reword the notes
+* | 51da7cb Rewrite the notes
 |/
-* eee5a6b Add a contact page
-*   e18f078 Merge new-title and combine both README titles
+* d1d125a Add a contact page
+*   f2f0373 Merge new-title and combine both README titles
 |\
-| * 6167eb9 Change the README title
-* | 3746fe0 Rename the app in the README
+| * 246118b Change the README title
+* | 0c0202d Rename the app in the README
 |/
-* 22b0988 Add an about page
+* 70e6922 Add an about page
+* 25c155f Add a note about git status
+* dde06fc Add learning notes
+* c73994e Describe the app in the README
+* 69b0b34 Add a README
+* 892828d Ignore secrets and downloaded packages
 ```
 
 ## Check

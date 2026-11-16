@@ -8,7 +8,7 @@ Lesson: **Your first commit, explained** (on ewoibuilds.com: `/lessons/your-firs
 
 ## What this step adds
 
-Git, set up once on your computer, and your first repository, `first-app`, with five commits: a README, a `.gitignore` that keeps secrets and downloaded packages out of history, and three practice commits.
+Git, set up once on your computer, and your first repository, `first-app`, with five commits: first a `.gitignore` that keeps secrets and downloaded packages out of history (before any other file), then a README, then three practice commits.
 
 ## The files
 
@@ -35,12 +35,12 @@ Then build the repository, one commit at a time:
 mkdir -p ~/ewoi-learning/first-app
 cd ~/ewoi-learning/first-app
 git init
-echo "# My first app" > README.md
-git add README.md
-git commit -m "Add a README"
 printf ".env\nnode_modules/\nvendor/\n" > .gitignore
 git add .gitignore
 git commit -m "Ignore secrets and downloaded packages"
+echo "# My first app" > README.md
+git add README.md
+git commit -m "Add a README"
 echo "A small app to learn Git." >> README.md
 git add README.md
 git commit -m "Describe the app in the README"
@@ -54,14 +54,22 @@ git commit -m "Add a note about git status"
 
 ## Expected output
 
-`git log --oneline` shows five commits, newest first (your IDs will differ):
+The first commit is the root commit, and it holds only `.gitignore` (your IDs will differ):
 
 ```
-ce1ec56 Add a note about git status
-28fdd19 Add learning notes
-4f9dccf Describe the app in the README
-2033073 Ignore secrets and downloaded packages
-5ee4b84 Add a README
+[main (root-commit) 892828d] Ignore secrets and downloaded packages
+ 1 file changed, 3 insertions(+)
+ create mode 100644 .gitignore
+```
+
+At the end, `git log --oneline` shows five commits, newest first:
+
+```
+25c155f Add a note about git status
+dde06fc Add learning notes
+c73994e Describe the app in the README
+69b0b34 Add a README
+892828d Ignore secrets and downloaded packages
 ```
 
 ## Check
@@ -71,8 +79,8 @@ ce1ec56 Add a note about git status
 
 ## Commit messages this step uses
 
-1. `Add a README`
-2. `Ignore secrets and downloaded packages`
+1. `Ignore secrets and downloaded packages`
+2. `Add a README`
 3. `Describe the app in the README`
 4. `Add learning notes`
 5. `Add a note about git status`
