@@ -1,0 +1,2 @@
+Git saves snapshots called commits.
+git status shows where I am.

@@ -1,0 +1,28 @@
+name
+---------
+Earphones
+Lunch box
+name                  price
+--------------------  -----
+Exercise book (pack)  300
+Calculator            1500
+name           price
+-------------  -----
+Power bank     3500
+Earphones      1200
+Phone charger  850
+name                  price
+--------------------  -----
+Exercise book (pack)  300
+Water bottle          650
+Phone charger         850
+category     products
+-----------  --------
+electronics  3
+home         2
+school       3
+category     stock_value
+-----------  -----------
+electronics  58500
+home         16250
+school       115800

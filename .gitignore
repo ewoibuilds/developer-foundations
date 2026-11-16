@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+vendor/
+node_modules/
+*.sqlite
+*.sqlite-journal
+*.db
+*.pem
+*.key
+id_rsa
+id_ed25519
+.DS_Store
+Thumbs.db

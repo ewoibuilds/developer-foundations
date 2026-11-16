@@ -1,0 +1,1 @@
+Git keeps every commit as a snapshot of my project.
