@@ -1,6 +1,6 @@
 # Step 04: Linux files and permissions
 
-Lesson: **Linux files and permissions** (on ewoibuilds.com: `/lessons/linux-files-and-permissions`)
+Lesson: [Linux files and permissions](https://ewoibuilds.com/lessons/linux-files-and-permissions)
 
 ## Your workspace folder
 

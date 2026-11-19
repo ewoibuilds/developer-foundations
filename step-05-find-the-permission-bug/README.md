@@ -1,6 +1,6 @@
 # Step 05: Find the permission bug (exercise)
 
-Exercise: **Find the permission bug** (on ewoibuilds.com: `/exercises/find-the-permission-bug`)
+Exercise: [Find the permission bug](https://ewoibuilds.com/exercises/find-the-permission-bug)
 
 ## Your workspace folder
 

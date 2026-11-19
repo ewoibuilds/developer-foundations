@@ -18,7 +18,7 @@
 
 **Learn. Build. Ship.** From zero to your first project on the internet: how the web works, Git, the terminal and databases, one small step at a time.
 
-This repository holds the finished code and notes for every step of the free **Developer foundations** (on ewoibuilds.com: `/paths/developer-foundations`) path. Each step folder shows what your own work should look like at the end of that lesson, so you can compare, or start again from the step before.
+This repository holds the finished code and notes for every step of the free [Developer foundations](https://ewoibuilds.com/paths/developer-foundations) path. Each step folder shows what your own work should look like at the end of that lesson, so you can compare, or start again from the step before.
 
 ## Start here
 
@@ -26,15 +26,15 @@ Follow the lessons in order. Each one tells you which folder to work in and ends
 
 | Step | Folder | Lesson | You work in |
 | --- | --- | --- | --- |
-| 01 | [step-01-how-the-web-works](step-01-how-the-web-works/) | **How the web works** (on ewoibuilds.com: `/lessons/how-the-web-works`) | `~/ewoi-learning/notes` |
-| 02 | [step-02-your-first-commit](step-02-your-first-commit/) | **Your first commit, explained** (on ewoibuilds.com: `/lessons/your-first-commit-explained`) | `~/ewoi-learning/first-app` |
-| 03 | [step-03-branches-without-fear](step-03-branches-without-fear/) | **Branches without fear** (on ewoibuilds.com: `/lessons/branches-without-fear`) | `~/ewoi-learning/first-app` |
-| 04 | [step-04-linux-files-and-permissions](step-04-linux-files-and-permissions/) | **Linux files and permissions** (on ewoibuilds.com: `/lessons/linux-files-and-permissions`) | `~/ewoi-learning/notes/linux` |
-| 05 | [step-05-find-the-permission-bug](step-05-find-the-permission-bug/) | **Find the permission bug** (on ewoibuilds.com: `/exercises/find-the-permission-bug`) (exercise) | `~/ewoi-learning/linux-exercise` |
-| 06 | [step-06-sql-select-and-where](step-06-sql-select-and-where/) | **SQL: SELECT and WHERE** (on ewoibuilds.com: `/lessons/sql-select-and-where`) | `~/ewoi-learning/sql` |
-| 07 | [step-07-write-the-query](step-07-write-the-query/) | **Write the query** (on ewoibuilds.com: `/exercises/write-the-query`) (exercise) | `~/ewoi-learning/sql` |
+| 01 | [step-01-how-the-web-works](step-01-how-the-web-works/) | [How the web works](https://ewoibuilds.com/lessons/how-the-web-works) | `~/ewoi-learning/notes` |
+| 02 | [step-02-your-first-commit](step-02-your-first-commit/) | [Your first commit, explained](https://ewoibuilds.com/lessons/your-first-commit-explained) | `~/ewoi-learning/first-app` |
+| 03 | [step-03-branches-without-fear](step-03-branches-without-fear/) | [Branches without fear](https://ewoibuilds.com/lessons/branches-without-fear) | `~/ewoi-learning/first-app` |
+| 04 | [step-04-linux-files-and-permissions](step-04-linux-files-and-permissions/) | [Linux files and permissions](https://ewoibuilds.com/lessons/linux-files-and-permissions) | `~/ewoi-learning/notes/linux` |
+| 05 | [step-05-find-the-permission-bug](step-05-find-the-permission-bug/) | [Find the permission bug](https://ewoibuilds.com/exercises/find-the-permission-bug) (exercise) | `~/ewoi-learning/linux-exercise` |
+| 06 | [step-06-sql-select-and-where](step-06-sql-select-and-where/) | [SQL: SELECT and WHERE](https://ewoibuilds.com/lessons/sql-select-and-where) | `~/ewoi-learning/sql` |
+| 07 | [step-07-write-the-query](step-07-write-the-query/) | [Write the query](https://ewoibuilds.com/exercises/write-the-query) (exercise) | `~/ewoi-learning/sql` |
 
-The path ends with a project you publish yourself: **Your portfolio website, live** (on ewoibuilds.com: `/projects/portfolio-website`), with its template in [portfolio-website](https://github.com/ewoibuilds/portfolio-website).
+The path ends with a project you publish yourself: [Your portfolio website, live](https://ewoibuilds.com/projects/portfolio-website), with its template in [portfolio-website](https://github.com/ewoibuilds/portfolio-website).
 
 ## What you need
 

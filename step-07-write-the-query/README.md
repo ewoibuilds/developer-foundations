@@ -1,6 +1,6 @@
 # Step 07: Write the query (exercise)
 
-Exercise: **Write the query** (on ewoibuilds.com: `/exercises/write-the-query`)
+Exercise: [Write the query](https://ewoibuilds.com/exercises/write-the-query)
 
 ## Your workspace folder
 
@@ -68,7 +68,7 @@ git commit -m "Answer the shop database questions"
 
 `Answer the shop database questions`
 
-Next: the final project, **Your portfolio website, live** (on ewoibuilds.com: `/projects/portfolio-website`), with its own template repository, [portfolio-website](https://github.com/ewoibuilds/portfolio-website).
+Next: the final project, [Your portfolio website, live](https://ewoibuilds.com/projects/portfolio-website), with its own template repository, [portfolio-website](https://github.com/ewoibuilds/portfolio-website).
 
 <!-- ewoi:step -->
 ---

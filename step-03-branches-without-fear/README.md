@@ -1,6 +1,6 @@
 # Step 03: Branches without fear
 
-Lesson: **Branches without fear** (on ewoibuilds.com: `/lessons/branches-without-fear`)
+Lesson: [Branches without fear](https://ewoibuilds.com/lessons/branches-without-fear)
 
 ## Your workspace folder
 

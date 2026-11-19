@@ -1,6 +1,6 @@
 # Step 06: SQL, SELECT and WHERE
 
-Lesson: **SQL: SELECT and WHERE** (on ewoibuilds.com: `/lessons/sql-select-and-where`)
+Lesson: [SQL: SELECT and WHERE](https://ewoibuilds.com/lessons/sql-select-and-where)
 
 ## Your workspace folder
 

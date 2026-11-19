@@ -1,6 +1,6 @@
 # Step 01: How the web works
 
-Lesson: **How the web works** (on ewoibuilds.com: `/lessons/how-the-web-works`)
+Lesson: [How the web works](https://ewoibuilds.com/lessons/how-the-web-works)
 
 ## Your workspace folder
 

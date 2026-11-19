@@ -1,6 +1,6 @@
 # Step 02: Your first commit
 
-Lesson: **Your first commit, explained** (on ewoibuilds.com: `/lessons/your-first-commit-explained`)
+Lesson: [Your first commit, explained](https://ewoibuilds.com/lessons/your-first-commit-explained)
 
 ## Your workspace folder
 
